@@ -1,0 +1,12 @@
+[submodule "sources_non_forked/jedi-vim"]
+	path = sources_non_forked/jedi-vim
+	url = https://github.com/davidhalter/jedi-vim
+[submodule "sources_forked/supertab"]
+	path = sources_forked/supertab
+	url = https://github.com/ervandew/supertab
+[submodule "sources_non_forked/supertab"]
+	path = sources_non_forked/supertab
+	url = https://github.com/ervandew/supertab
+[submodule "sources_non_forked/vim-snipmate"]
+	path = sources_non_forked/vim-snipmate
+	url = https://github.com/garbas/vim-snipmate.git
